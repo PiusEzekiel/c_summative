@@ -20,10 +20,11 @@ Task 3: You will need to have an array of functions such that if the user choose
     ```bash
     ./a.out
 
-## Demo for Sorting Names Program
+### Demo for Sorting Names Program
 
 [Demo for Sorting Names Program](https://github.com/user-attachments/assets/58ac40e2-5f6c-497a-83bd-d4d72843692d)
 
+# 
 # Q2. Remote for Light
 
 We are having a light bulb in our house that we would like to control using the remote control

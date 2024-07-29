@@ -34,17 +34,18 @@ You will design a circuit that has a light bulb and components needed to make it
 
 ## How to Use 
 
-1. **Compile the C Code:**
+1. **Connect:**
+    - Connect the IR sensor to pin 6.
+    - Connect the bulb to pin 11.
+    ![Screenshot 2024-07-29 222830](https://github.com/user-attachments/assets/1f572843-ba8f-484a-a023-4c7a07f08ef8)
+    
+2. **Upload:** Upload the code to your Arduino board.
 
-   ```bash
-   ##
+3. **Test:** Use your IR remote to test the power button (0xFD00FF) or the button code (0xFF00BF00). You should see the bulb turn on and off, and you'll see the received IR codes printed on the serial monitor.
 
-2. **Run the Program:**
 
-    ```bash
-    ##
-
-### Demo
+### Demo for Arduino Remote for Light Project
+[Demo for Arduino Remote for Light Project](https://github.com/user-attachments/assets/eeed3b30-3ae4-4cb3-9f1c-0b6f4442c70f)
 
 #
 #
